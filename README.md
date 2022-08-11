@@ -1,32 +1,47 @@
-# EstruturaDeDados1
+# <h1 align="center"> EstruturaDeDados1</h1>
 
-## Professor Manasses Ribeiro
+> <p align="justify"> Estruturas de Dados é uma área dentro da Ciência da Computação que se ocupa do estudo da organização, representação e manipulação dos dados computacionais, seja em memória principal ou secundária. As Estruturas de Dados estão relacionadas com o modo como os dados e as operações que são efetuadas sobre estes dados serão organizados para que problemas complexos possam ser solucionados de maneira simples. Neste contexto, este componente curricular justifica-se pela necessidade de oferecer ao estudante as noções básicas de como organizar de maneira racional e coerente os dados, e os algoritmos, de modo a otimizar seu uso. </p>
 
-## Aluno Guilherme P do Amarilho
+## Professor 
+- Manasses Ribeiro
 
-### Atividades
+## Aluno 
+- Guilherme P do Amarilho
 
-#### Atividade 1
-[Atividade Lista encadeada simples](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/main/Aula%2003%20-%20Lista%20ordenada%20e%20encadeada/listaOrdenada.c)
+## Atividades
+- Projetos feitos durante o 3º semestre de Ciências da Computação.
 
-[Atividade Lista encadeada dupla](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/main/Aula%2004%20-%20Listas%20duplamente%20encadeada%20e%20circular/ListaEncadeadaDupla.c)
+#### Listas Encadeadas:
+- [Atividade Lista encadeada simples](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/main/Aula%2003%20-%20Lista%20ordenada%20e%20encadeada/listaOrdenada.c)
+- [Atividade Lista encadeada dupla](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/main/Aula%2004%20-%20Listas%20duplamente%20encadeada%20e%20circular/ListaEncadeadaDupla.c)
 
-#### Atividade 2
+#### Filas
+- [Conteúdo](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2005%20-%20Filas%20teoria%20e%20pr%C3%A1tica/filas.pdf)
+- [Fila Simples](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2005%20-%20Filas%20teoria%20e%20pr%C3%A1tica/fila.c)
+- [Fila com Prioridade](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2005%20-%20Filas%20teoria%20e%20pr%C3%A1tica/fila.c)
 
-[Atividade Fila - Exercicio 1](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/main/Aula%2005%20-%20Filas%20teoria%20e%20pr%C3%A1tica/exercicio-1.c)
+#### Pilhas
+- [Conteúdo](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2006%20-%20Pilhas%20teoria%20e%20pr%C3%A1tica/pilha.pdf)
+- [Exercício](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2006%20-%20Pilhas%20teoria%20e%20pr%C3%A1tica/pilha.c)
+- [Exercício](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2006%20-%20Pilhas%20teoria%20e%20pr%C3%A1tica/exercicio1.c)
 
-[Atividade Fila - Exercicio 2 e 3](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/main/Aula%2005%20-%20Filas%20teoria%20e%20pr%C3%A1tica/exercicio-2.c)
+#### Busca Linear & Busca Binária 
+- [Atividade Seminário - Busca Linear e Busca Binaria](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/main/Aula%2008%20-%20Semin%C3%A1rios/Apresenta%C3%A7%C3%A3o%20BuscaLinear%20e%20BuscaBin%C3%A1ria.pdf)
+- [Busca Linear - Código](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2008%20-%20Semin%C3%A1rios/Busca_Linear.c)
+- [Busca Binária - Código](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2008%20-%20Semin%C3%A1rios/Busca_Binaria.c)
 
-#### Atividade 3
+#### QuickSort
+- [Conteúdo](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2009%20-%20QuickSort/Quicksort.pdf)
+- [Exercício](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2009%20-%20QuickSort/QuickSort.c)
 
-[Atividade Pilha - Exercicio 1](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/main/Aula%2006%20-%20Pilhas%20teoria%20e%20pr%C3%A1tica/exercicio1.c)
+#### Hashing
+- [Conteúdo](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2007%20-%20Tabela%20de%20espalhamento%20(hashing)/Tabela%20Hash.pdf)
+- [Hash - vetor](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2007%20-%20Tabela%20de%20espalhamento%20(hashing)/hash_em_vetor.c)
+- [Hash - String](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2007%20-%20Tabela%20de%20espalhamento%20(hashing)/hash_string.c)
+- [Hash - Lista Encadeada](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2007%20-%20Tabela%20de%20espalhamento%20(hashing)/hash_em_lista_encadeada.c)
 
-#### Atividade 4
-
-[Atividade Seminário - Busca Linear e Busca Binaria](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/main/Aula%2008%20-%20Semin%C3%A1rios/Apresenta%C3%A7%C3%A3o%20BuscaLinear%20e%20BuscaBin%C3%A1ria.pdf)
-
-### Atividade Final
-
+### Projeto Final
+- [Descrição]()
 [Projeto Final - App](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/main/Aula%2010%20-%20ProjetoFinal/main.c)
 
 [Projeto Final - Descritivo](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/tree/main/Aula%2010%20-%20ProjetoFinal)
