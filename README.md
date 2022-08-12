@@ -1,4 +1,4 @@
-# <h1 align="center"> EstruturaDeDados1</h1>
+# <h1 align="center"> Estrutura de Dados 1</h1>
 
 > <p align="justify"> Estruturas de Dados é uma área dentro da Ciência da Computação que se ocupa do estudo da organização, representação e manipulação dos dados computacionais, seja em memória principal ou secundária. As Estruturas de Dados estão relacionadas com o modo como os dados e as operações que são efetuadas sobre estes dados serão organizados para que problemas complexos possam ser solucionados de maneira simples. Neste contexto, este componente curricular justifica-se pela necessidade de oferecer ao estudante as noções básicas de como organizar de maneira racional e coerente os dados, e os algoritmos, de modo a otimizar seu uso. </p>
 
