@@ -41,7 +41,6 @@
 - [Hash - Lista Encadeada](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2007%20-%20Tabela%20de%20espalhamento%20(hashing)/hash_em_lista_encadeada.c)
 
 ### Projeto Final
-- [Descrição]()
-[Projeto Final - App](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/main/Aula%2010%20-%20ProjetoFinal/main.c)
-
-[Projeto Final - Descritivo](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/tree/main/Aula%2010%20-%20ProjetoFinal)
+- [Problema Proposto](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2010%20-%20ProjetoFinal/Problema%20Trabalho%20Final%20ED.pdf)
+- [Descritivo](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2010%20-%20ProjetoFinal/README.md)
+- [Código](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2010%20-%20ProjetoFinal/main.c)
