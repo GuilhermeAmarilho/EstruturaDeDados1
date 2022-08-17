@@ -47,9 +47,7 @@ Enquanto o Hashing com encadeamento não possui essa limitação, devido o fato 
 
 A hipótese do Hash uniforme prevê que todas as chaves serão plenamente alcançáveis, todavia, não há uma fórmula exata para obtermos  isso, o que torna essa hipótese inalcançável. Como meio de aproximar o máximo possível deste resultado, utilizamos a fórmula `( caractere 1*1 + caractere 2*2 .... + caractere N*N) % TAM`, onde o TAM é o tamanho total da lista Hash, e com isso, obtivemos um ótimo desempenho. 
 
-![Histograma](
-    https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/main/Aula%2010%20-%20ProjetoFinal/histograma.png
-)
+![Histograma](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2010%20-%20ProjetoFinal/histograma.png)
 
 Com base no histograma acima, que correlaciona a quantidade de nomes com cada linha da tabela Hash, verificamos que nosso resultado foi parcialmente uniforme. Obtendo uma média de 1901 nomes por cada lista, e um desvio padrão de 64 nomes.
 
@@ -57,9 +55,7 @@ Com base no histograma acima, que correlaciona a quantidade de nomes com cada li
 
 Para ordenar os arquivos após seu agrupamento ocorrer, utilizamos a função QuickSort, que tem como base o método dividir para conquistar, esta estratégia consiste em rearranjar as chaves de modo que as chaves "menores" precedam as chaves "maiores".  Em seguida o quicksort ordena as duas sublistas de chaves menores e maiores recursivamente até que a lista completa se encontre ordenada. 
 
-![QuckSort](
-    https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/main/Aula%2010%20-%20ProjetoFinal/QuickSort.gif
-)
+![QuckSort](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2010%20-%20ProjetoFinal/QuickSort.gif)
 
 ## 3. Funcionalidades
 
